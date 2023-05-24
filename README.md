@@ -2,7 +2,7 @@ These are all Projects Built in Java. They all are connected with a database in 
 
 Here we are perofrming CRUD Operations on various data like text file, binary file, random access file and atlast Databases.
 
-**#Assignment 1:**
+## **Assignment 1:**
 Develop a GUI application to manage product file. For each product following information is kept:
 Product id (integer and unique)
 Product name
@@ -11,7 +11,7 @@ User should be able to perform the following operations:
 Add new product, only if all the valid information is provided
 Modify existing product using product id
 
-**#Assignment 2:**
+## **#Assignment 2:**
 Create a customer management application. This application uses a binary file for storing customer information and includes data validation and exception handling.
 With the customer management user should be able to perform the following operations:
 Add new customer, only if all the valid information is provided
@@ -21,7 +21,7 @@ For each customer following information is kept:
 Customer id (integer and unique)
 Name, Phone, Email, and Postal Code
 
-**#Assignment 3:**
+## **#Assignment 3:**
 Using random access file, develop a GUI application to manage a product file. 
 For each product, the following information is kept:
 Product id (integer, unique, auto assigned)
@@ -32,7 +32,7 @@ Add new product
 Modify existing product using product id
 Delete product using product id
 
-**#Assignment 4:**
+## **#Assignment 4:**
 Write a Java GUI program that views, inserts, and updates staff information stored in a database, as shown in the following figure. The view button displays a record with a specified ID. The Staff table is created as follows:
 
 create t
@@ -49,7 +49,7 @@ able Staff (
   primary key (id)
 );
 
-**#Assignment 5:**
+## **#Assignment 5:**
 1. In ca.myjava.query package
 • The two classes should do the same task - query the Country table in your Oracle
 database and show the info of countries which have LifeExpectancy between two values.
