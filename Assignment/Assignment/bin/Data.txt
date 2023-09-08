@@ -1,0 +1,2 @@
+
+ID: 1, Product: Socks, Price: $19.0
